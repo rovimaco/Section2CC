@@ -1,9 +1,0 @@
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\bin\Debug\Section2CC.exe.config
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\obj\Debug\Section2CC.csprojResolveAssemblyReference.cache
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\obj\Debug\Section2CC.Form1.resources
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\obj\Debug\Section2CC.Properties.Resources.resources
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\obj\Debug\Section2CC.csproj.GenerateResource.Cache
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\bin\Debug\Section2CC.exe
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\bin\Debug\Section2CC.pdb
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\obj\Debug\Section2CC.exe
-c:\users\rose\documents\visual studio 2015\Projects\Section2CC\Section2CC\obj\Debug\Section2CC.pdb
